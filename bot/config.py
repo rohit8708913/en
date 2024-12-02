@@ -7,7 +7,7 @@ class Config(object):
     # sucks Dude
     APP_ID = int(get_config("APP_ID", "26387127"))
     API_HASH = get_config("API_HASH", "19718ab7acd97d0f71ada2807ddfe47a")
-    LOG_CHANNEL = get_config("LOG_CHANNEL", "-1002381050327")
+    LOG_CHANNEL = get_config("LOG_CHANNEL", "About_Yae_Miko_Warlord")
     UPDATES_CHANNEL = get_config("UPDATES_CHANNEL", None) # Without `@` LOL
      # Get these values from my.telegram.org
     AUTH_USERS = [8108281129, -1002387895058, 6885162066]
@@ -21,7 +21,7 @@ class Config(object):
     TG_MAX_FILE_SIZE = 4194304000
     FREE_USER_MAX_FILE_SIZE = 4194304000
     # default thumbnail to be used in the videos
-    DEF_THUMB_NAIL_VID_S = get_config("DEF_THUMB_NAIL_VID_S", "https://placehold.it/90x90")
+    DEF_THUMB_NAIL_VID_S = get_config("DEF_THUMB_NAIL_VID_S", "https://envs.sh/CQU.jpg")
     # proxy for accessing youtube-dl in GeoRestricted Areas
     # Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061
     HTTP_PROXY = get_config("HTTP_PROXY", None)
