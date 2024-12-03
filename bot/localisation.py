@@ -1,7 +1,7 @@
 from bot.get_cfg import get_config
 
 class Localisation:
-    START_TEXT = "Hᴇʟʟᴏ, \n<blockquote>Tʜɪꜱ ɪꜱ ᴀ Tᴇʟᴇɢʀᴀᴍ <b>Video Encoder Bot</b>. \n\n<b>Pʟᴇᴀꜱᴇ Sᴇɴᴅ ᴍᴇ ᴀɴʏ Tᴇʟᴇɢʀᴀᴍ Bɪɢ Vɪᴅᴇᴏ Fɪʟᴇ ɪ ᴡɪʟʟ Cᴏᴍᴘʀᴇꜱꜱ Iᴛ ᴀꜱ  Sᴍᴀʟʟ Vɪᴅᴇᴏ Fɪʟᴇ!</b> \n\n/help Fᴏʀ Mᴏʀᴇ Dᴇᴛᴀɪʟꜱ.</blockquote> \n✨ Eɴᴊᴏʏ....."
+    START_TEXT = "Hᴇʟʟᴏ, \n<blockquote><b>𝚃𝚑𝚒𝚜 𝙸𝚜 𝙰 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚅𝚒𝚍𝚎𝚘 𝙴𝚗𝚌𝚘𝚍𝚎𝚛 𝙱𝚘𝚝. 𝙼𝚊𝚍𝚎 𝙱𝚢 @Yae_X_Miko.</b>. \n\n<b>𝙿𝚕𝚎𝚊𝚜𝚎 𝚂𝚎𝚗𝚍 𝙼𝚎 𝙰𝚗𝚢 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙱𝚒𝚐 𝚅𝚒𝚍𝚎𝚘 𝙵𝚒𝚕𝚎 𝙸 𝚆𝚒𝚕𝚕 𝙲𝚘𝚖𝚙𝚛𝚎𝚜𝚜 𝙸𝚝 𝙰𝚜 𝚂𝚖𝚊𝚕𝚕 𝚅𝚒𝚍𝚎𝚘 𝙵𝚒𝚕𝚎.</b> \n\n/help 𝙵𝚘𝚛 𝙼𝚘𝚛𝚎 𝙳𝚎𝚝𝚊𝚒𝚕𝚜.</blockquote> \n✨ 𝙴𝚗𝚓𝚘𝚢❣️❣️....."
    
     ABS_TEXT = " Please don't be selfish."
     
