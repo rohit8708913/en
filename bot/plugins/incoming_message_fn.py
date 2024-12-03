@@ -34,7 +34,7 @@ from pyrogram.types import ChatPermissions, InlineKeyboardMarkup, InlineKeyboard
 from pyrogram.errors.exceptions.bad_request_400 import UserNotParticipant, UsernameNotOccupied, ChatAdminRequired, PeerIdInvalid
 
 
-os.system("wget https://telegra.ph/file/0e369e097843b0dc4b771.jpg -O thumb.jpg")
+os.system("wget https://envs.sh/CQU.jpg -O thumb.jpg")
 
 CURRENT_PROCESSES = {}
 CHAT_FLOOD = {}
@@ -49,7 +49,7 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('👨‍💻 Oᴡɴᴇʀ 👨‍💻', url='https://t.me/cmd_rulf')
+                    InlineKeyboardButton('👨‍💻 Oᴡɴᴇʀ 👨‍💻', url='https://t.me/Yae_X_Miko')
                 ]
             ]
         ),
