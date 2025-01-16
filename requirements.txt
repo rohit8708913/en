@@ -1,6 +1,8 @@
 aiogram
 aiohttp
 anitopy
+ffmpeg 
+ffmpegcode
 Pillow
 psutil
 hachoir
